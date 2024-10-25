@@ -1,2 +1,2 @@
 # HighCurrent
-The oscillation is underdamped.
+The oscillation is underdamped
