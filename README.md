@@ -1,5 +1,5 @@
 # HighCurrent
-Application of DFT on a High Impulse Current (8/20 μs, 50 kA) using Python.
+Application of DFT on a High Impulse Current using Python.
 
 The oscillation is underdamped with damping ratio < 1 (ζ = 0.596). 
 
